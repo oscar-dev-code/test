@@ -1,2 +1,12 @@
-
-[{id: 1, user: 'uno'}]
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "uno"
+    },
+    {
+      "id": 2,
+      "name": "dos"
+    }
+  ]
+}
